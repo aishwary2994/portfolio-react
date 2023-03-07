@@ -1,3 +1,8 @@
+
+h1 {
+    margin: -12px;
+}
+
 header {
     height: 110vh;
     padding-top: 0.5rem;
@@ -13,7 +18,7 @@ header {
 /* =====CTA===== */
 
 .cta {
-    margin-top: 2.5rem;
+    margin-top: 1.8rem;
     display: flex;
     gap: 1.2rem;
     justify-content: center;
@@ -55,7 +60,7 @@ header {
 .scroll__down {
     position: absolute;
     right: -2.3rem;
-    bottom: 5rem;
+    bottom: 8rem;
     transform: rotate(90deg);
     font-weight: 300;
     font-size: 0.9rem;
